@@ -1,1 +1,2 @@
 hello it is my test2 file 
+This is dummy test2 file
